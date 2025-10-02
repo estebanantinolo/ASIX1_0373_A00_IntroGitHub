@@ -26,6 +26,6 @@ __*TEXTO*__
 ```html
 <p>Esto es un párrafo</p>
 ```
-[link](https://www.youtube.com/?app=desktop&hl=es "Página oficial de Youtube")
+[Página oficial de Youtube](https://www.youtube.com/?app=desktop&hl=es "Texto adicional")
 
 ![alt text](./imagen1.jpg "Imagen random de Youtube")
