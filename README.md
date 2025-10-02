@@ -31,6 +31,7 @@ __*TEXTO*__
 ![alt text](./imagen1.jpg "Imagen random de Youtube")
 
 | Jugador | Equipo | Nombre |
+|:-----------|-----------:|:-----------:|
 | 32 | Lakers | Magic Johnson |
 | 33 | Celtics| Boston Celtics |
 | 23 | Bulls | Michael Jordan |
