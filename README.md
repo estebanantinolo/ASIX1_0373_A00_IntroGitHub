@@ -22,3 +22,10 @@ __*TEXTO*__
 * Elemento desordenado 1
 + Elemento desordenado 2
 - Elemento desordenado 3
+
+```html
+<p>Esto es un párrafo</p>
+```
+[link](https://www.youtube.com/?app=desktop&hl=es "Página oficial de Youtube")
+
+![alt text](./imagen1.jpg "Imagen random de Youtube")
