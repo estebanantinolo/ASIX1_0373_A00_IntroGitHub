@@ -2,3 +2,4 @@
 ## Primer repositorio del curso 2025-26 ASIX1
 ### Es mi primera toma de contacto con gitHub.
 #### Soy Esteban Antiñolo
+Esto está en __negrita__
